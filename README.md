@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @vmakksimov
-- 👀 I’m interested in Python, JS, PHP, Django, Flask, ReactJS, Symfony
-- 🌱 I’m currently learning PHP Symfony
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me vmakksimov@gmail.com
+- 👀 I’m interested in [![My Skills](https://skillicons.dev/icons?i=nodejs, express, react, typescript, redux, vue, django, flask, docker, postgres, mongo, mariadb, redis, linux figma&theme=dark)](https://skillicons.dev)
+- 📫 You can reach me at vmakksimov@gmail.com
 
 
 <!---
