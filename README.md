@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vmakksimov
-- [![My Skills](https://skillicons.dev/icons?i=nodejs, express, react, typescript, redux, vue, django, flask, docker, postgres, mongo, mariadb, redis, linux figma&theme=dark)](https://skillicons.dev)
+- (https://skillicons.dev/icons?i=nodejs, express, react, typescript, redux, vue, django, flask, docker, postgres, mongo, mariadb, redis, linux figma&theme=dark)
 - 📫 You can reach me at vmakksimov@gmail.com
 
 
