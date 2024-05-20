@@ -25,7 +25,7 @@
 
 <h3>Most used languages</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/vmakksimov=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmakksimov&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>My GitHub contributions summary</h3>
 
