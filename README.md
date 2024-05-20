@@ -23,8 +23,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<h3>Most used languages</h3>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmakksimov&&size_weight=0.5&count_weight=1&layout=compact)
 
 <h3>My GitHub contributions summary</h3>
