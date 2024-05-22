@@ -25,6 +25,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31638C?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-C1775A?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-F7AD04?style=flat-square&logo=linux&logoColor=black" />
+  
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmakksimov&&size_weight=0.5&count_weight=1.8&layout=compact)
