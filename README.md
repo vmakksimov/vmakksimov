@@ -15,7 +15,6 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="circleci" src="https://img.shields.io/badge/-circleci-1F2328?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-<!--   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> -->
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -26,7 +25,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31638C?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-C1775A?style=flat-square&logo=mariadb&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-EFB710?style=flat-square&logo=linux&logoColor=black" />
-    <img alt="Black" src="https://img.shields.io/badge/-Black-f7df1c?style=flat-square&logo=black&logoColor=black" />
+    
 
   
 </p>
