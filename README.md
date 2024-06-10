@@ -26,6 +26,8 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-31638C?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-C1775A?style=flat-square&logo=mariadb&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-EFB710?style=flat-square&logo=linux&logoColor=black" />
+    <img alt="Black" src="https://img.shields.io/badge/-Black-f7df1c?style=flat-square&logo=black&logoColor=black" />
+
   
 </p>
 
