@@ -7,7 +7,7 @@
   <img alt="Jest" src="https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-1F2328?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Nestjs" src="https://img.shields.io/badge/-nest-CB3837?style=flat-square&logo=nest&logoColor=white" />
+  <img alt="Nestjs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="django" src="https://img.shields.io/badge/-Django-34a853?style=flat-square&logo=django&logoColor=white" />
   <img alt="flask" src="https://img.shields.io/badge/-Flask-c3e6e6?style=flat-square&logo=flask&logoColor=black" />
